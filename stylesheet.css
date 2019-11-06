@@ -1,7 +1,17 @@
-p{
-  color: white;
-  background-color: blue;
+#experience {
+    background-color: mediumaquamarine;
+    color: white;
+    font-size: 20;
+    font-style: italic;
 }
+
+#contact {
+     background-color: mediumaquamarine;
+    color: white;
+    font-size: 20;
+    font-style: italic;
+}
+
 body{
   background-color: cadetblue;
 }
