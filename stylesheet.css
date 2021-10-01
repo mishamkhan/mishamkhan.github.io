@@ -1,34 +1,49 @@
 #experience {
     background-color: mediumaquamarine;
     color: white;
-    font-size: 3vmin;
+    font-size: 2vmax;
 }
 
 #contact {
-     background-color: mediumaquamarine;
+    background-color: mediumaquamarine;
     color: white;
-    font-size: 3vmin;
+    font-size: 2vmax;
 }
 
 #instagram {
     color: white;
-    font-size: 3vmin;
+    font-size: 2vmax;
 }
 
 #linkedin {
     color: white;
-    font-size: 3vmin;
+    font-size: 2vmax;
 }
 
-.responsive {
-    display: flex;
-    position: relative;
-    left: 1px;
+.image {
+    position: relative;    
+    height: 100%;
+    background-size: cover;
+    background-attachment: scroll;
+    text-align: center;
     z-index: -1;
+    
 }
 
+.wrap {
+    position: fixed;
+    margin-top: -25%;
+    margin-left: 9%;
+    margin-right: 8%;
+}
+
+img {
+  max-width: 40%;
+  max-height: 40%;
+  position: relative;
+}
 
 body{
   background-color: cadetblue;
-  font-size: 2.5vmin;
+  font-size: 1.5vmax;
 }
