@@ -1,12 +1,25 @@
-#experience, #contact {
-    background-color: mediumaquamarine;
+#link {
     color: white;
+    font-size: 1.5vmax;
+}
+
+sectionheader {
+    color: darkred;
     font-size: 2vmax;
 }
 
+subheader {
+    color: darkred;
+    font-size: 1.6vmax;
+}
 
-#link {
+heading {
     color: white;
+    font-size: 4vmax;  
+}
+
+body{
+    background-color: cadetblue;
     font-size: 1.5vmax;
 }
 
@@ -26,18 +39,10 @@
     margin-right: 8%;
 }
 
+
 img {
     max-width: 40%;
     max-height: 40%;
     position: relative;
 }
 
-heading {
-    color: white;
-    font-size: 4vmax;  
-}
-
-body{
-    background-color: cadetblue;
-    font-size: 1.5vmax;
-}
